@@ -8,7 +8,6 @@ metadata:
   labels:
     run: nginx
   name: nginx
-  namespace: default
   resourceVersion: "906"
   selfLink: /apis/apps/v1/namespaces/default/deployments/nginx
   uid: 84a380f9-8a18-464e-a76d-b2c8dba65eaf
